@@ -1,0 +1,8 @@
+{
+  "what": "An instrument for slow, evolving sound. Four layers play recorded sources as drifting loops, grains, time-stretch or resonating strings, mixed by a vector point that moves by itself, with shimmer reverb and freeze.",
+  "author": "BARNIR",
+  "kinds": ["synth"],
+  "image": "screen.png",
+  "color": "#8B93F8",
+  "sounds": "CC0: VSCO-2 Community Edition and VCSL by Versilian Studios"
+}
