@@ -1,0 +1,22 @@
+# Eigen bronnen: een bank in het geheugen wordt bij het opstarten gevonden, een kapotte niet.
+wait 2500
+expect sources 9
+data tekstuur/bank/extra.tkb 0x97000
+reboot
+wait 2500
+expect sources 14
+tap EDIT
+wait 50
+turn K1 20
+wait 600
+expect par0 13
+midi 90 3C 64
+wait 2000
+expect passes >0
+shot bank_bell.png
+midi 80 3C 00
+# een byte kapot: de bank telt niet meer mee
+data_write 0x98000 00
+reboot
+wait 2500
+expect sources 9

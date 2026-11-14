@@ -1,0 +1,18 @@
+# Tekstuur voor de FM-1: bouwinstellingen (fm1-base tools/build.py)
+name = "TEKSTUUR"
+id_prefix = "FM-1_27"            # eigen identiteit van dit firmwarepakket
+usb_manufacturer = "BARNIR"
+usb_product = "Tekstuur FM-1"
+o2 = ["dsp/tk_engine.c"]         # de klankmotor apart, op -O2
+ble = false
+mirror = true                    # scherm en bediening over USB (tools/fm1_mirror.py): voor het testen op afstand
+tagline = "vier lagen klank die langzaam bewegen"
+repo = "https://github.com/barnierg76/tekstuur-fm1"
+licence = "MPL-2.0"
+credits = "Tekstuur by BARNIR. Platform: fm1-base and felucca-bsp (MPL-2.0). Sources: VSCO-2 CE and VCSL by Versilian Studios (CC0)."
+author = "BARNIR"
+description = "Tekstuur for the M-VAVE FM-1: four layers that each play a recorded source as slowly shifting loops or a cloud of grains, mixed with a vector point that drifts by itself, through chorus, delay and reverb."
+tags = ["synth"]
+install = "https://barnir.pages.dev/tekstuur/install/"
+site = "https://barnir.pages.dev/tekstuur/"
+screenshot = "screen.png"

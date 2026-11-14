@@ -1,0 +1,10 @@
+# NAAM	PAD	GRONDTOON (gemeten, mag een breuk zijn)	START	DUUR	Hz   (bronnen: VSCO-2-CE en VCSL, CC0; zie BRONNEN.md)
+STRINGS	/Users/iamstudios/Desktop/fm1/ref/samples/STRINGS.wav	72.00	1.2	1.5	22050
+CELLO	/Users/iamstudios/Desktop/fm1/ref/samples/CELLO.wav	60.00	1.2	1.5	22050
+HORN	/Users/iamstudios/Desktop/fm1/ref/samples/HORN.wav	59.99	1.0	1.5	22050
+ORGAN	/Users/iamstudios/Desktop/fm1/ref/samples/ORGAN.wav	64.00	1.0	1.5	22050
+GLASS	/Users/iamstudios/Desktop/fm1/ref/samples/GLASS.wav	75.27	4.0	1.5	22050
+PSALTR	/Users/iamstudios/Desktop/fm1/ref/samples/PSALTR.wav	72.02	1.0	1.5	22050
+VIBES	/Users/iamstudios/Desktop/fm1/ref/samples/VIBES.wav	56.96	1.5	1.5	22050
+REED	/Users/iamstudios/Desktop/fm1/ref/samples/REED.wav	74.03	1.0	1.5	22050
+NOISE	ruis:	60	0	1.0	22050
