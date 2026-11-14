@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "id": "tekstuur",
+  "name": "Tekstuur",
+  "author": "BARNIR",
+  "license": "MPL-2.0",
+  "tagline": "four layers of slowly moving sound",
+  "description": "Tekstuur for the M-VAVE FM-1: four layers that each play a recorded source as slowly shifting loops or a cloud of grains, mixed with a vector point that drifts by itself, through chorus, delay and reverb.",
+  "tags": ["synth"],
+  "install": "https://barnir-fm1.pages.dev/tekstuur/install/",
+  "site": "https://barnir-fm1.pages.dev/tekstuur/",
+  "source": "https://github.com/barnierg76/tekstuur-fm1",
+  "screenshot": "screen.png",
+  "hardware": {
+    "models": ["FM-1"],
+    "flash": ["856014", "B36014"],
+    "features": ["usb-audio-in", "usb-audio-out", "velocity", "pressure", "screen-reader", "screen-mirror"]
+  },
+  "credits": "Tekstuur by BARNIR. Platform: fm1-base and felucca-bsp (MPL-2.0). Sources: VSCO-2 CE and VCSL by Versilian Studios (CC0)."
+}
