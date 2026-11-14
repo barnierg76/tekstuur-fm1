@@ -3,7 +3,7 @@
 A firmware that turns the M-VAVE FM-1 into an instrument for long, slowly moving sound: four layers, each playing a
 recorded source as loops, grains, a stretched freeze or ringing strings. Free and open source.
 
-**Install it from the browser: <https://barnir.pages.dev/tekstuur/>** (Chrome or Edge, a USB cable, about a minute).
+**Install it from the browser: <https://barnir-fm1.pages.dev/tekstuur/>** (Chrome or Edge, a USB cable, about a minute).
 
 ![Tekstuur on the FM-1's screen](screen.png)
 
